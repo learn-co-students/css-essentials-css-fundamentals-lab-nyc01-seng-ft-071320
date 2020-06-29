@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  align-content: center;
+}
+
+img {
+  align-content: center;
+}
+
+a {
+  padding: 10px;
+  background: #808080;
+}
+p #featured-property {
+  max-width: 800px;
+  text-align: center;
+}
+
+/*#details {*/
+/*  display*/
+/*}*/
